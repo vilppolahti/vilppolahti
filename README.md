@@ -12,3 +12,4 @@ Full-stack web developer focused on building tools that make life easier and fun
 ## Contact
 - Email: [pessiv@outlook.com](mailto:pessiv@outlook.com)
 - GitHub: [vilppolahti](https://github.com/vilppolahti)
+:)

@@ -2,6 +2,12 @@
 
 ---
 
+```
+ /\_/\ 
+( o.o )
+ > ^ <
+```
+
 ## 📊 GitHub Statistics
 
 ### 🔥 Streak Stats

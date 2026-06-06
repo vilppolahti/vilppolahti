@@ -26,6 +26,11 @@ MySQL
 
 ---
 
+## 📚 What I'm Learning (Jokes Section)
+
+
+---
+
 ## 📞 Contact
 
 - Email: [pessiv@outlook.com](mailto:pessiv@outlook.com)

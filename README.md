@@ -3,7 +3,7 @@
 ---
 
 ```
- /\_/\ 
+ /\/\\ 
 ( o.o )
  > ^ <
 ```
@@ -28,6 +28,7 @@ MySQL
 
 ## 📚 What I'm Learning (Jokes Section)
 
+I searched for new AI tools for ICT engineers and found so many that even Claude Code needed a Copilot to keep track of them all.
 
 ---
 

@@ -30,6 +30,8 @@ MySQL
 
 I searched for new AI tools for ICT engineers and found so many that even Claude Code needed a Copilot to keep track of them all.
 
+I searched for new AI tools for game development and found so many that even the NPCs in Inworld AI would need a quest log to keep track of them all.
+
 ---
 
 ## 📞 Contact
